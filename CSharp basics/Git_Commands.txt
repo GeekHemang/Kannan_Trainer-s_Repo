@@ -1,0 +1,21 @@
+
+>git clone  repo-url
+
+>(main)
+ >git status (red files)
+ >git add . (all contents  of current directroy)
+ >git status (green files)
+ >git commit -m "day1,day2,day3 files added"
+//setup configuration
+git config --global user.email ""
+git config --global user.name ""
+
+
+ >git status (working tree is clean)
+ >git log 
+ >git push
+
+//
+time traveling /time machine
+>git checkout hash
+>git checkout main
