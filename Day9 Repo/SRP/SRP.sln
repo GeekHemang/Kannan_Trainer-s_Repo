@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPViolationApp", "SRPViolationApp\SRPViolationApp.csproj", "{56973583-E11B-4139-AE96-C3C64430B928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPRefactored", "SRPRefactored\SRPRefactored.csproj", "{1B81CB9E-4875-4309-B07C-33A5E02986C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56973583-E11B-4139-AE96-C3C64430B928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56973583-E11B-4139-AE96-C3C64430B928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56973583-E11B-4139-AE96-C3C64430B928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56973583-E11B-4139-AE96-C3C64430B928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B81CB9E-4875-4309-B07C-33A5E02986C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B81CB9E-4875-4309-B07C-33A5E02986C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B81CB9E-4875-4309-B07C-33A5E02986C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B81CB9E-4875-4309-B07C-33A5E02986C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BEE62CE-0A31-43C6-BF95-26A5F41342E2}
+	EndGlobalSection
+EndGlobal

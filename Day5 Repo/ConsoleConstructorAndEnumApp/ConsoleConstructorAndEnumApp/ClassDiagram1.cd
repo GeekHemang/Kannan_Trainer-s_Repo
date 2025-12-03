@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleConstructorAndEnumApp.Domain.Rectangle">
+    <Position X="2.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAABACKAAAAAAgEAEAAABAAAAAAAAAAgQAAAgA=</HashCode>
+      <FileName>Domain\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ConsoleConstructorAndEnumApp.Domain.BorderStyleOptions">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAACAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\BorderStyleOptions.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

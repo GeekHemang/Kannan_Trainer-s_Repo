@@ -1,0 +1,40 @@
+<html>
+
+<style>
+    h1 {
+      color: red; /* Red font color */
+      animation: fadeIn 2s ease-in-out infinite alternate; /* Animation */
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0.3;
+        transform: scale(0.9);
+      }
+      to {
+        opacity: 1;
+        transform: scale(1.1);
+      }
+    }
+  </style>
+ <script>
+   function handler1(){
+   alert("god is listening");
+
+   const title = document.querySelector("h1");
+      // Set animation property to empty string
+      title.style.animation = "";
+         
+
+   }
+function handler2(){
+alert("devil is listening");
+
+}
+ </script>
+
+<h1>This is emerson index page</h1>
+<button onclick="handler1(),handler2()">Click me!!</button>
+
+
+</html>
